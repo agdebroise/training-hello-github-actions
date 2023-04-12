@@ -7,6 +7,8 @@
 
 # Hello GitHub Actions
 
+## Edition here the rEADME for test purposes
+
 _Create a GitHub Action and use it in a workflow._
 
 <!--
